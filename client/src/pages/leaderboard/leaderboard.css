@@ -1,0 +1,32 @@
+.leaderboard{
+    flex: 4;
+}
+
+.leaderboardWidgets{
+    display: flex;
+    margin: 20px;
+}
+
+.searchBar{
+    display: flex;
+    margin: 20px;
+}
+
+.splitscreen {
+    display:flex;
+    margin-top: 120px;
+}
+
+.splitscreen .left {
+    flex: 1;
+    margin: 20px;
+}
+
+.splitscreen .right {
+    flex: 1;
+    margin: 20px;
+}
+
+.splitscreen .right .searchBar {
+    float: right;
+}

@@ -1,0 +1,21 @@
+.login {
+    flex: 5;
+    align-items: 'center';
+    justify-content: 'center';
+}
+
+.loggedIn {
+    flex: 5;
+    align-items: 'center';
+    justify-content: 'center';
+}
+
+.loggedInButtons {
+    flex: 5;
+    padding: 20px 20px;
+    margin: 20px;
+    height: 100;
+    align-items: 'center';
+    justify-content: 'center';
+    display: grid;
+}
